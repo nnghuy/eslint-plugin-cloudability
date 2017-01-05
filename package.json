@@ -1,0 +1,11 @@
+{
+  "name": "eslint-plugin-cloudability",
+  "version": "1.0.0",
+  "description": "Custom Cloudability linting rules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Huy Nguyen <huy.nguyen@cloudability.com>",
+  "license": "ISC"
+}
