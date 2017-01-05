@@ -3,7 +3,7 @@
 'use strict';
 
 var allRules = {
-  'prefer-callback-set-state': require('.lib/rules/prefer-callback-set-state')
+  'prefer-callback-set-state': require('./lib/rules/prefer-callback-set-state')
 }
 
 module.exports = {
